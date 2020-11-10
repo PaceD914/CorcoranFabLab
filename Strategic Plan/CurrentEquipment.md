@@ -22,18 +22,18 @@
 
 ## Print Bureau
 
-  ### Active Equipment:
-     - Epson P8000 (x2)
-      - 44"
-     - Epson P7900 (x2)
-      - 24"
+### Active Equipment:
+    - Epson P8000 (x2)
+     - 44"
+    - Epson P7900 (x2)
+     - 24"
   
-  ### Inactive Equipment:
-     - Roland SG-300
-      - Waiting on parts for repair
+### Inactive Equipment:
+    - Roland SG-300
+     - Waiting on parts for repair
   
-  ### Offline Equipment:
-     - Epson P8000
-      - Damaged Print Head
-     - Epson P9890
-      - Damaged Print Head
+### Offline Equipment:
+    - Epson P8000
+     - Damaged Print Head
+    - Epson P9890
+     - Damaged Print Head
