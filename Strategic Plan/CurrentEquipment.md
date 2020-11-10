@@ -21,6 +21,7 @@
 
 
 ## Print Bureau
+
   ### Active Equipment:
      - Epson P8000 (x2)
       - 44"
