@@ -5,20 +5,23 @@
 ### Active Equipment:
    - Universal Laser Systems VLS 4.60
    - Universal Laser Systems PLS 4.75 (x2)
+   - Roland MDX-40a (x2)
+     - One has rotary axis (CAM in progress)
+     - Possible to do 3D scan with probe; have not attempted yet.
   
 ### Inactive Equipment:
    - Makerbot Replicator + (x12)
      - Cabable of PLA and PLA Tough
-     - Waiting for materials to build ventilation enclosure
+     - Ventilation enclosure built
+     - Need to attach Bofa and get approval 
    - Stratasys F170
      - Capable of PLA, ABS, ASA
-   - Roland MDX-40a (x2)
-     - Have one rotary axis
-     - Currently in process to make active
+   
 
 ### Offline Equipment:
    - Stratasys Objet 30 Prime Polyjet
    - Forest Scientific 5x10 ATC CNC
+     - To be sold
   
 
 
