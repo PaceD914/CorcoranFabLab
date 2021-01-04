@@ -1,1 +1,0 @@
-This folder will serve as the strategic plan area for the Corcoran Fab Lab. Under the fab lab includes the MakerSpace (Currently in Flagg B148, as of 10 Nov 2020) and the Print Bureau (currently in Flagg B137, as of 10 Nov 2020).
